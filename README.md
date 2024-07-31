@@ -2,7 +2,7 @@
 Java-Spring-Boot-Full-CRUD-service-and-Frontend-React-UserManagement
 Tutorial From PSR Vlog channel (Prasad Srimal Sir)
 
-Java Spring Boot Tutorial 
+Java Spring Boot Tutorial /n
 Focus Areas
   how to create REST APIs
   how to connect a MySQL database to a Spring Boot application.
