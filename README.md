@@ -1,5 +1,5 @@
 
-# Java Spring Boot Full CRUD Service and Frontend React User Management
+# Java Spring Boot Full CRUD Service and Frontend React (User Management system)
 
 ### Tutorial From PSR Vlog Channel (Prasad Srimal Sir)
 
